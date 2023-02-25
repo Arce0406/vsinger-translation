@@ -8,15 +8,15 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 
 ## 販售資訊
 
-**販售期間：** 2023年，3月10日～3月19日
+**販售期間：** 2023年，3月10日～3月19日  
 **販售地點：** タワーレコード渋谷店、新宿店、名古屋近鉄パッセ店、梅田NU茶屋町、アミュプラザ博多店、札幌パルコ店
 (另外有 TOWER RECORDS Online 商店，將於2023年3月10日、10時開始販售。)
 
 ## 關於商品種類
 
-全3種：HACHI、KMNZ (LITA + LIZ)、VESPERBELL (ヨミ + カスカ) 
-全5種：HACHI、LITA、LIZ、ヨミ、カスカ
-全6種：全員、HACHI、LITA、LIZ、ヨミ、カスカ
+全3種：HACHI、KMNZ (LITA + LIZ)、VESPERBELL (ヨミ + カスカ)  
+全5種：HACHI、LITA、LIZ、ヨミ、カスカ  
+全6種：全員、HACHI、LITA、LIZ、ヨミ、カスカ  
 
 ## 特典
 
@@ -32,8 +32,6 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 
 ## －商品內容－
 
-&nbsp;  
-
 ### ▼聯動EP「HARMONICS」▼
 
 **說明：** 『HACHI』『KMNZ』『VESPERBELL』共5人聯動的EP，先行販售的第一批次數量有限。  
@@ -41,17 +39,17 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 **店面販售：** 2023年3月10日～？  
 **線上販售：** 2023年3月10日10時～？  
 **收錄歌曲：**  
-> 01．『未来図』 Prod. byKOTONOHOUSE（LIZ × カスカ楽曲）  
-> 02．『Fiction』 Prod. by PSYQUI（LITA × HACHI楽曲）  
-> 03．『Admit』 Prod. by*Luna（ヨミ × HACHI楽曲）  
-> 04．KMNZ - OVERNIGHT Remix（Batsu ）  
-> 05．VESPERBELL - RISE Remix（BlackY）  
-> 06．HACHI - バスタイムプラネタリウム Remix（gaze//he's me）  
-   o 緜（キャライラスト）  
-   o レク（ジャケットデザイン）  
-> 07．未来図(instrumental)  
-> 08．Fiction(instrumental)  
-> 09．Admit(instrumental)  
+01．『未来図』 Prod. byKOTONOHOUSE（LIZ × カスカ楽曲）  
+02．『Fiction』 Prod. by PSYQUI（LITA × HACHI楽曲）  
+03．『Admit』 Prod. by*Luna（ヨミ × HACHI楽曲）  
+04．KMNZ - OVERNIGHT Remix（Batsu ）  
+05．VESPERBELL - RISE Remix（BlackY）  
+06．HACHI - バスタイムプラネタリウム Remix（gaze//he's me）  
+> o 緜（キャライラスト）  
+> o レク（ジャケットデザイン）  
+07．未来図(instrumental)  
+08．Fiction(instrumental)  
+09．Admit(instrumental)  
 
 &nbsp;  
 
