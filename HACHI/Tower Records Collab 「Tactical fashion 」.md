@@ -14,9 +14,9 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 
 ## 關於商品種類
 
-全3種：HACHI、KMNZ (LITA + LIZ)、VESPERBELL (ヨミ + カスカ)  
-全5種：HACHI、LITA、LIZ、ヨミ、カスカ  
-全6種：全員、HACHI、LITA、LIZ、ヨミ、カスカ  
+**全3種：** HACHI、KMNZ (LITA + LIZ)、VESPERBELL (ヨミ + カスカ)  
+**全5種：** HACHI、LITA、LIZ、ヨミ、カスカ  
+**全6種：** 全員、HACHI、LITA、LIZ、ヨミ、カスカ  
 
 ## 特典
 
@@ -27,7 +27,7 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 
 ### 專輯特典「後臺通行證（全5種）」
 
-每購買一張專輯《HARMONICS》，即可隨機獲得Tower Records原創特典“後台通行證（共5種）”一張（隨機樣式、數量有限）。
+每購買一張專輯《HARMONICS》，即可隨機獲得Tower Records原創特典“後台通行證（共5種）”一張（隨機樣式、數量有限）。  
 （未說明是否為實體或者不限）
 
 ## －商品內容－
@@ -46,8 +46,8 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 05．VESPERBELL - RISE Remix（BlackY）  
 06．HACHI - バスタイムプラネタリウム Remix（gaze//he's me）  
 
-- o 緜（キャライラスト）
-- o レク（ジャケットデザイン）
+- 緜（人物插圖）
+- レク（夾克設計）
 
 07．未来図(instrumental)  
 08．Fiction(instrumental)  
