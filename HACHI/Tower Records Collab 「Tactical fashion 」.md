@@ -47,8 +47,8 @@ TOWER RECORDS 聯動周邊商品「Tactical fashion ver.」，產品細節中文
 > 04．KMNZ - OVERNIGHT Remix（Batsu ）  
 > 05．VESPERBELL - RISE Remix（BlackY）  
 > 06．HACHI - バスタイムプラネタリウム Remix（gaze//he's me）  
- o 緜（キャライラスト）  
- o レク（ジャケットデザイン）  
+   o 緜（キャライラスト）  
+   o レク（ジャケットデザイン）  
 > 07．未来図(instrumental)  
 > 08．Fiction(instrumental)  
 > 09．Admit(instrumental)  
