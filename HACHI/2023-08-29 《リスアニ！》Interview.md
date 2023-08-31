@@ -179,66 +179,67 @@ HACHI：是的呢！我也很嚮往這樣的工作，如果有機會的話，我
 
 ## リリース情報
 
-**HACHI 2nd アルバム**
-**『Close to heart』**
-**発売中**
+**HACHI 2nd アルバム**<br/>
+**『Close to heart』**<br/>
+**発売中**<br/>
 <br/>
 
-**■mora**
-通常／配信リンクはこちら
-ハイレゾ／配信リンクはこちら
+**■mora**<br/>
+通常／配信リンクはこちら<br/>
+ハイレゾ／配信リンクはこちら<br/>
 
 [配信リンクはこちら](https://linkco.re/xPAgr3vB)
 
-**【特別仕様盤】**
-価格：¥5,000（税込）
-・CD+特典
-特殊紙三方背スリーブケース仕様
-特典：記念カード Close to heart ver.(シリアルナンバー入り)
 <br/>
 
-**【通常盤（CD）】**
-販売価格：¥2,500（税込）
+**【特別仕様盤】**<br/>
+価格：¥5,000（税込）<br/>
+・CD+特典<br/>
+特殊紙三方背スリーブケース仕様<br/>
+特典：記念カード Close to heart ver.(シリアルナンバー入り)<br/>
 <br/>
 
-**＜收錄曲＞**
+**【通常盤（CD）】**<br/>
+販売価格：¥2,500（税込）<br/>
 <br/>
-1.　Deep Sleep Sheep
+
+**＜收錄曲＞**<br/>
+<br/>
+1.　Deep Sleep Sheep<br/>
 Lyrics / Composition / Arrangement：ササノマリイ
-<br/>
-2.　まなざし
+<br/><br/>
+2.　まなざし<br/>
 Lyrics / Composition / Arrangement：tee tea
-<br/>
-3.　ビー玉
+<br/><br/>
+3.　ビー玉<br/>
 Lyrics / Composition：海野水玉　Arrangement：出羽良彰
-<br/>
-4.　いつまでも
+<br/><br/>
+4.　いつまでも<br/>
 Lyrics：yacco　Composition / Arrangement：tee tea
-<br/>
-5.　さよならfrequency
+<br/><br/>
+5.　さよならfrequency<br/>
 Lyrics / Composition / Arrangement：春野
-<br/>
-6.　Level off
+<br/><br/>
+6.　Level off<br/>
 Lyrics：yacco　Composition / Arrangement：tee tea
-<br/>
-7.　空が待ってる
+<br/><br/>
+7.　空が待ってる<br/>
 Lyrics / Composition / Arrangement：tee tea
-<br/>
-8.　HONEY BEES
+<br/><br/>
+8.　HONEY BEES<br/>
 Lyrics / Composition：海野水玉　Arrangement：Seiji Iwasaki
+<br/><br/>
+
+**●ライブ情報**<br/>
+**東京・台湾ツアー 「Close to heart」**<br/>
 
 <br/>
-
-**●ライブ情報**
-**東京・台湾ツアー 「Close to heart」**
-
+東京公演会場：Spotify O-EAST<br/>
+日時：2023年10月9日(月・祝)<br/>
+Open 17:00 / Start 18:00<br/>
 <br/>
-東京公演会場：Spotify O-EAST
-日時：2023年10月9日(月・祝)
-Open 17:00 / Start 18:00
-<br/>
-台湾公演会場：TAIPEI Clapper Studio
-日時：2023年11月19日(日)
+台湾公演会場：TAIPEI Clapper Studio<br/>
+日時：2023年11月19日(日)<br/>
 
 ## 相關連結
 
