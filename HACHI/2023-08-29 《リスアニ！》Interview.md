@@ -177,7 +177,9 @@ HACHI：我喜歡音樂類型的動畫，尤其是有歌曲的作品。我從以
 
 HACHI：是的呢！我也很嚮往這樣的工作，如果有機會的話，我很想挑戰一下。
 
-## リリース情報
+***
+
+**●リリース情報**<br/>
 
 **HACHI 2nd アルバム**<br/>
 **『Close to heart』**<br/>
@@ -243,7 +245,7 @@ Open 17:00 / Start 18:00<br/>
 
 ## 相關連結
 
-HACHI
+HACHI<br/>
 [公式X（旧Twitter）](https://twitter.com/8HaChi_hacchi)
 
 [YouTube](https://www.youtube.com/c/HACHIVSinger)
