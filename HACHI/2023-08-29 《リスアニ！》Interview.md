@@ -182,6 +182,7 @@ HACHI：是的呢！我也很嚮往這樣的工作，如果有機會的話，我
 **HACHI 2nd アルバム**
 **『Close to heart』**
 **発売中**
+<br/>
 
 **■mora**
 通常／配信リンクはこちら
@@ -194,51 +195,48 @@ HACHI：是的呢！我也很嚮往這樣的工作，如果有機會的話，我
 ・CD+特典
 特殊紙三方背スリーブケース仕様
 特典：記念カード Close to heart ver.(シリアルナンバー入り)
+<br/>
 
 **【通常盤（CD）】**
 販売価格：¥2,500（税込）
+<br/>
 
 **＜收錄曲＞**
-
-1. Deep Sleep Sheep
-
+<br/>
+1.　Deep Sleep Sheep
 Lyrics / Composition / Arrangement：ササノマリイ
-
-2. まなざし
-
+<br/>
+2.　まなざし
 Lyrics / Composition / Arrangement：tee tea
-
-3. ビー玉
-
+<br/>
+3.　ビー玉
 Lyrics / Composition：海野水玉　Arrangement：出羽良彰
-
-4. いつまでも
-
+<br/>
+4.　いつまでも
 Lyrics：yacco　Composition / Arrangement：tee tea
-
-5. さよならfrequency
-
+<br/>
+5.　さよならfrequency
 Lyrics / Composition / Arrangement：春野
-
-6. Level off
-
+<br/>
+6.　Level off
 Lyrics：yacco　Composition / Arrangement：tee tea
-
-7. 空が待ってる
-
+<br/>
+7.　空が待ってる
 Lyrics / Composition / Arrangement：tee tea
-
-8. HONEY BEES
-
+<br/>
+8.　HONEY BEES
 Lyrics / Composition：海野水玉　Arrangement：Seiji Iwasaki
+
+<br/>
 
 **●ライブ情報**
 **東京・台湾ツアー 「Close to heart」**
 
+<br/>
 東京公演会場：Spotify O-EAST
 日時：2023年10月9日(月・祝)
 Open 17:00 / Start 18:00
-
+<br/>
 台湾公演会場：TAIPEI Clapper Studio
 日時：2023年11月19日(日)
 
