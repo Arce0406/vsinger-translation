@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const text = ``;
+        function lineParser() {
+            const withoutLineBreaks = text.replace(/[\r\n]/gm, ',').split(',').sort()//.join("　");
+            let strings = [];
+            let temp = [];
+            for (let i = 0; i < withoutLineBreaks.length; i++) {
+                const element = withoutLineBreaks[i];
+                temp.push(element)
+                if ((i + 1) % 15 === 0 || (i + 1) >= withoutLineBreaks.length) {
+                    strings.push(temp.join("\r\n"))
+                    temp = [];
+                }
+            }
+            // console.log(withoutLineBreaks)
+            console.log(strings)
+        }
+
+        document.addEventListener("DOMContentLoaded", lineParser)
+    </script>
+</body>
+</html>
