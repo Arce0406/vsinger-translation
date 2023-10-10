@@ -48,3 +48,7 @@ Since this specific Flower Stand project is to be closed, and many things still 
 Thank you again for your support！
 <br>
 And thanks to HACHI and RK Music for the great performance！
+
+![image](https://github.com/Arce0406/vsinger-translation/blob/main/HACHI/Fan-Projects/2023%E3%80%8CClose%20to%20heart%E3%80%8DTokyo%20Flower%20Stand/img/flower-stand-full.jpg)
+![image](https://github.com/Arce0406/vsinger-translation/blob/main/HACHI/Fan-Projects/2023%E3%80%8CClose%20to%20heart%E3%80%8DTokyo%20Flower%20Stand/img/flower-stand-panel1.jpg)
+![image](https://github.com/Arce0406/vsinger-translation/blob/main/HACHI/Fan-Projects/2023%E3%80%8CClose%20to%20heart%E3%80%8DTokyo%20Flower%20Stand/img/flower-stand-panel2.jpg)
